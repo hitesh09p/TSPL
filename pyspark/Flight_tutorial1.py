@@ -57,7 +57,7 @@ sqlcontext.registerDataFrameAsTable(date, "newtable")
 sqlquery2= "SELECT DISTINCT code AS airport,date FROM newtable WHERE arr_delay <> 'NA' ORDER BY date DESC"
 
 
-"SELECT DISTINCT code AS airport, date  FROM newtable WHERE arr_delay IS NOT NULL ORDER BY date DESC "
+#"SELECT DISTINCT code AS airport, date  FROM newtable WHERE arr_delay IS NOT NULL ORDER BY date DESC "
 newdf = sqlcontext.sql(sqlquery2).show(100)
 last7days = newdf.where(datediff(current_date(), col("date")) < 7)
 
