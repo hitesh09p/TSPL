@@ -1,0 +1,7 @@
+com/springboot/datamongodb/SpringDataMongoDbApplication.class
+com/springboot/datamongodb/model/id_detail.class
+com/springboot/datamongodb/model/DashboardNew.class
+com/springboot/datamongodb/dbConnection.class
+com/springboot/datamongodb/repository/DashboardMongoRepository.class
+com/springboot/datamongodb/queries/distinctDashboard.class
+com/springboot/datamongodb/controller/Dashboardcontroller.class

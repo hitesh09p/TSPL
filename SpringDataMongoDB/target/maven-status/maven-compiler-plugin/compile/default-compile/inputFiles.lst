@@ -1,0 +1,7 @@
+/home/bdg/etc/SpringDataMongoDB/src/main/java/com/springboot/datamongodb/SpringDataMongoDbApplication.java
+/home/bdg/etc/SpringDataMongoDB/src/main/java/com/springboot/datamongodb/model/id_detail.java
+/home/bdg/etc/SpringDataMongoDB/src/main/java/com/springboot/datamongodb/controller/Dashboardcontroller.java
+/home/bdg/etc/SpringDataMongoDB/src/main/java/com/springboot/datamongodb/model/DashboardNew.java
+/home/bdg/etc/SpringDataMongoDB/src/main/java/com/springboot/datamongodb/dbConnection.java
+/home/bdg/etc/SpringDataMongoDB/src/main/java/com/springboot/datamongodb/repository/DashboardMongoRepository.java
+/home/bdg/etc/SpringDataMongoDB/src/main/java/com/springboot/datamongodb/queries/distinctDashboard.java
