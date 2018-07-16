@@ -1,0 +1,6 @@
+B:\vinay\hbase-compare-master\hbase-compare-master\src\main\java\com\pponna\hbase\mapreduce\HbaseCompareDriver.java
+B:\vinay\hbase-compare-master\hbase-compare-master\src\main\java\com\pponna\util\UtilityConstants.java
+B:\vinay\hbase-compare-master\hbase-compare-master\src\main\java\com\pponna\hbase\mapreduce\KeyValueListWritable.java
+B:\vinay\hbase-compare-master\hbase-compare-master\src\main\java\com\pponna\hbase\compare\HbaseCompare.java
+B:\vinay\hbase-compare-master\hbase-compare-master\src\main\java\com\pponna\hbase\mapreduce\HbaseCompareMapper.java
+B:\vinay\hbase-compare-master\hbase-compare-master\src\main\java\com\pponna\hbase\mapreduce\HbaseCompareReducer.java
