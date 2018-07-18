@@ -11,7 +11,7 @@ from pyspark.sql import *
 #sc = SparkContext(conf=conf)
 
 #hiveContext = HiveContext(sc)
-
+#------------------Create/read hive table as dataframe--------------------- 
 #hiveContext.sql("create database test")
 #hiveContext.sql("use test")
 #hiveContext.sql("create table txn1 (txnno INT, txndate STRING, custno INT, amount DOUBLE, category STRING)"
@@ -25,7 +25,7 @@ from pyspark.sql import *
 #df1.show()
 #df2.show()
 #df3 = df2.subtract(df1).show()
-
+#--------------------------------------------------------------------------------
 spark = SparkSession.builder\
      .master("local")\
      .appName("spark-avro")\
