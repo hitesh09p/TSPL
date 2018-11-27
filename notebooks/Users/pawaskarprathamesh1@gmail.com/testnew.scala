@@ -16,10 +16,7 @@ print c
 
 // COMMAND ----------
 
-val ab = 20
-val xy = 30
 
-xy-ab
 
 // COMMAND ----------
 
