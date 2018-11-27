@@ -1,7 +1,18 @@
 // Databricks notebook source
-display(dbutils.fs.ls("dbfs:/"))
+display(dbutils.fs.ls("dbfs:/FileStore/tables"))
 
 
 // COMMAND ----------
 
-display(dbutils.fs.ls("dbfs:/user"))
+// MAGIC %md Hello This is Title
+
+// COMMAND ----------
+
+val a = 1
+val b = 2
+
+val c = a+b
+print c
+
+// COMMAND ----------
+
