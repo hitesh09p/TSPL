@@ -1,0 +1,8 @@
+###### Requirements without Version Specifiers ######`
+click
+pandas
+azure-cli
+azure-mgmt-subscription
+
+
+###### Requirements with Version Specifiers ######`
